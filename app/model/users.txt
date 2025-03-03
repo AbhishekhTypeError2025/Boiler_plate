@@ -1,0 +1,16 @@
+[
+  {
+    "name": "tefs",
+    "email": "abc12@gmail.com",
+    "password": "$2b$10$hWq6hWDFJGpxLKGgWgbtHeIA.s2C39IjjaQewO9550FKwj/oKUbeC",
+    "userId": "SG21802",
+    "role": "student"
+  },
+  {
+    "name": "tefs",
+    "email": "abc123@gmail.com",
+    "password": "$2b$10$sdinoHmgcQzGKfSiBfKnXOWEMWatC9hTF/L9kBXHMLyIhdN3d/opW",
+    "userId": "SG21804",
+    "role": "student"
+  }
+]
